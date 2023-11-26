@@ -1,4 +1,4 @@
 # Slotmaschine
 
-Hier finden Sie der Code zur der Hausmesse Projekt, die Slotmaschine.
+Hier finden Sie den Code zur der Hausmesse Projekt, die Slotmaschine.
 
